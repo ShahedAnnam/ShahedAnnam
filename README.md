@@ -2,10 +2,6 @@
 <h1 align="center">Hi, I'm Shahed Annam 👋</h1>
 <h3 align="center">Software Developer | AI/ML • Research • From Ideas to Solutions</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShahedAnnam&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 <!-- ABOUT ME -->
@@ -52,7 +48,7 @@
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="48" height="48" alt="Hugo"/><br>Hugo</div> | | |
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br>MySQL</div> | | |
 
-
+<br clear="both">
 
 ---
 
@@ -78,7 +74,9 @@
 
 <!-- GITHUB STATS -->
 ## 📈 GitHub Stats
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShahedAnnam&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShahedAnnam&show_icons=true&theme=radical" alt="Shahed's GitHub Stats" />
 </p>
