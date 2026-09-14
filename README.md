@@ -59,11 +59,17 @@
 <!-- PROJECTS -->
 ## 🌟 Projects
 
-| Project Name        | Description                                   | Link                                     |
-|---------------------|-----------------------------------------------|------------------------------------------|
-| **Portfolio Site**  | My third year project using HTML, CSS         | [View](https://shahedannam.netlify.app/) |
-| **Dhaka Metro Rail**| My second year project in Java using GUI      | [View Code](https://github.com/e-h-p/DHAKA-METRORAIL) |
-| **Hostel Management** | My first year C project (terminal-based)   | [View Code](https://github.com/ShahedAnnam/Hostel-Management-System) |
+| Project Name | Description | Links |
+|--------------|-------------|-------|
+| **JU Dine Desk** | Android-based smart dining management system built with Kotlin, Firebase & Firestore. | [Code](https://github.com/ShahedAnnam/JU-Dine-Desk) · [Live Demo](#) |
+| **JU Coupon Exchange** | Django-based web platform for exchanging hall feast coupons among JU students. | [Code](https://github.com/ShahedAnnam/JUCouponExchange) · [Live](https://shahedannam.pythonanywhere.com/) |
+| **Bangla Legal RAG** | AI-powered Bangla legal question-answering system using RAG and information retrieval. | [Code](#) · [Demo](#) |
+| **CPL Football Draft** | Real-time Django-based football player auction and team management system. | [Code](https://github.com/ShahedAnnam/CPL_Football_Draft) · [Live Demo](#) |
+| **Smart Saline & Blood Transfusion** | IoT-based system for monitoring saline and blood flow with an Android application. | [Code](#) · [Demo](#) |
+| **BikeMaintenance** | Android app for tracking motorcycle fuel, servicing, and maintenance costs. | [Code](#) · [Demo](#) |
+| **Portfolio Site** | Personal portfolio website showcasing my projects, skills, and experience. | [Code](#) · [Live](https://shahedannam.netlify.app/) |
+| **Dhaka Metro Rail** | Java GUI project simulating an e-ticketing and metro rail management system. | [Code](https://github.com/e-h-p/DHAKA-METRORAIL) |
+| **Hostel Management** | Terminal-based management system developed as a first-year C project. | [Code](https://github.com/ShahedAnnam/Hostel-Management-System) |
 
 
 ---
