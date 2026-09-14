@@ -23,11 +23,12 @@
 
 ## 🚀 Skills
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="right" alt="Skills Animation" width="450px"  src="./Skills_Animation_White.gif">
-</picture>
+</picture> -->
+<img align="right" alt="Skills Animation" width="450px" src="./Skills_Animation_White.gif">
 
 | **I Have**                             | **I am Learning**                        | **In the Memory Bank**                |
 |----------------------------------------|------------------------------------------|---------------------------------------|
