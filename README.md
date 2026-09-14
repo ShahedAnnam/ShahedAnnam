@@ -29,8 +29,8 @@
   <img align="right" alt="Skills Animation" width="450px"  src="./Skills_Animation_White.gif">
 </picture> 
 
-| **I Have**                             | **I am Learning**                        | **In the Memory Bank**                |
-|----------------------------------------|------------------------------------------|---------------------------------------|
+| **I Have**                             | **I am Learning**                     | **In the Memory Bank**               |
+|----------------------------------------|---------------------------------------|--------------------------------------|
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/><br>C</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/><br>React</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/><br>Next.js</div> |
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/><br>C++</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/><br>TypeScript</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br>Node.js</div> |
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/><br>Java</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django REST Framework"/><br>Django REST</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br>Docker</div> |
@@ -41,7 +41,7 @@
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django"/><br>Django</div> | <div align="center">🔤<br>NLP</div> | <div align="center">🤖<br>Deep Learning</div> |
 | <div align="center">🧮<br>Algorithms</div> | <div align="center">🔌<br>REST API</div> | <div align="center">🧠<br>LLM & AI Agents</div> |
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android"/><br>Android</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/><br>Linux</div> | <div align="center">☁️<br>Cloud Architecture</div> |
-| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="48" height="48" alt="GitHub"/><br>GitHub</div> | <div align="center">🔎<br>Information Retrieval</div> | <div align="center">⚡<br>Distributed Systems</div> |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="48" height="48" alt="GitHub"/><br>GitHub</div> | <div align="center">🔎<br>Info Retrieval</div> | <div align="center">⚡<br>Distributed Systems</div> |
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br>Git</div> | <div align="center"> | <div align="center">🧩<br>Microservices</div> |
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/><br>Bootstrap</div> | | |
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="48" height="48" alt="Hugo"/><br>Hugo</div> | | |
