@@ -29,8 +29,8 @@
   <img align="right" alt="Skills Animation" width="450px"  src="./Skills_Animation_White.gif">
 </picture> 
 
-| **I Have**                           | **I am Learning**                   | **In Memory Bank**         |
-|--------------------------------------|-------------------------------------|----------------------------|
+| **I Have**                            | **I am Learning**                   | **In Memory Bank**         |
+|--------------------------------- -----|-------------------------------------|----------------------------|
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/><br>C</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/><br>React</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/><br>Next.js</div> |
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/><br>C++</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/><br>TypeScript</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br>Node.js</div> |
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/><br>Java</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django REST Framework"/><br>Django REST</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br>Docker</div> |
