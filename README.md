@@ -28,6 +28,8 @@
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="right" alt="Skills Animation" width="450px"  src="./Skills_Animation_White.gif">
 </picture>
+
+
 | **I Have**                             | **I am Learning**                        | **In the Memory Bank**                |
 |----------------------------------------|------------------------------------------|---------------------------------------|
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/><br>C</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/><br>React</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/><br>Next.js</div> |
