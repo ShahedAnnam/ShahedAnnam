@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi, I'm Shahed Annam 👋</h1>
-<h3 align="center">CSE Student | Aspiring Software Developer | Passionate Programmer</h3>
+<h3 align="center">Software Developer | AI/ML • Research • From Ideas to Solutions</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ShahedAnnam&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -11,11 +11,14 @@
 <!-- ABOUT ME -->
 ## 👨‍💻 About Me
 
-- 🎓 I'm a Computer Science and Engineering (CSE) student at **Jahangirnagar University**
-- 🌱 Currently learning **Web Development**, **JavaScript**
-- 🧠 Familiar with **Python**, **C**, **C++**, **Java**, **HTML**, **CSS**
-- 🎯 Goals: Aiming to create projects that solve real problems with an intuitive user experience.
-- 📫 Reach me at **shahedanam2018@gmail.com**
+* 💻 **CSE Graduate | Software Developer | AI/ML Enthusiast**
+* 🎓 CSE graduate from **Jahangirnagar University**, currently pursuing an **M.Sc. in CSE**.
+* 🚀 Experienced in **Web Development, Android Development, Backend Systems, REST APIs, and Databases**.
+* 🤖 Exploring **AI/ML, NLP, and Retrieval-Augmented Generation (RAG)** through projects and research.
+* 🧠 Strong foundation in **Algorithms, Data Structures, Problem Solving, and Competitive Programming**.
+* 🛠️ Passionate about building **practical software that solves real-world problems**.
+* 🎓 Former **Programming Instructor**, training university students in competitive programming and problem solving.
+* 📫 **[shahedanam2018@gmail.com](mailto:shahedanam2018@gmail.com)**
 
 ---
 
